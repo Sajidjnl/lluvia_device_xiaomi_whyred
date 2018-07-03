@@ -253,3 +253,5 @@ TARGET_BOOTANIMATION_TEXTURE_CACHE := true
 
 # Inherit from proprietary files
 include vendor/xiaomi/whyred/BoardConfigVendor.mk
+
+ALLOW_MISSING_DEPENDENCIES=true
